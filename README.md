@@ -11,7 +11,6 @@ O projecto do evento [dados abertos, em Águeda](http://sig.cm-agueda.pt/drupal/
 + Permitir a edição dos dados de forma simplificada (QGIS);
 + Normalização dos dados
 
-
 ## Equipa
 + Ana Rita Melo
 + Aurélio Pires
@@ -19,6 +18,8 @@ O projecto do evento [dados abertos, em Águeda](http://sig.cm-agueda.pt/drupal/
 + Pedro Pereira
 + Rui Cavaco
 
-
-
 ## [Apresentação](https://goo.gl/aHdza5)
+
+## Resultados
+
+O resultado do trabalho descrito na [apresentação](https://goo.gl/aHdza5) está disponível na forma de [ficheiro *backup*](enderecos_data.backup) de PostgreSQL. 
