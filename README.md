@@ -34,6 +34,6 @@ As tabelas incluidas neste backup:
 + 'toponimo' - ageregação de topónimos únicos
 + 'lugar' - agregação de lugares
 
-A construção da tabela 'estagio_sheets_moradas' foi produzida usando este [Notebook Jupyter](Importação sheets moradas.ipynb)
+A construção da tabela 'estagio_sheets_moradas' foi produzida usando este [Notebook Jupyter]('Importação sheets moradas.ipynb')
 
 A construção das tabelas de agregação encontra-se descrita na [apresentação](https://goo.gl/aHdza5)
